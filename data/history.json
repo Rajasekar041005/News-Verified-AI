@@ -1,0 +1,949 @@
+[
+  {
+    "claim": "During a meeting with Lebanese Parliament Speaker Nabih Berri, a Hezbollah ally, al-Shibani said Syria is open to holding talks with Hezbollah if such a meeting would be beneficial, according to the NNA",
+    "original_text": "During a meeting with Lebanese Parliament Speaker Nabih Berri, a Hezbollah ally, al-Shibani said Syria is open to holding talks with Hezbollah if such a meeting would be beneficial, according to the NNA",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 50,
+      "explanation": "The statement is based on a meeting with a Hezbollah ally, but the actual quote from al-Shibani is not provided, making it difficult to verify the claim.",
+      "recommendation": "Verify the quote from al-Shibani and check for any official statements from Syria or Hezbollah to confirm the claim.",
+      "misinformation_analysis": {
+        "potential_misinformation": "The claim may be misleading because it relies on a secondary source (the NNA) and does not provide direct evidence from al-Shibani or Syria.",
+        "missing_information": "The actual quote from al-Shibani is not provided, which makes it difficult to verify the claim.",
+        "exaggeration": "None identified",
+        "unsupported_claim": "The claim may be unsupported because it is based on a single meeting and does not provide any concrete evidence of Syria's willingness to hold talks with Hezbollah."
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-03T09:35:01"
+  },
+  {
+    "claim": "During a meeting with Lebanese Parliament Speaker Nabih Berri, a Hezbollah ally, al-Shibani said Syria is open to holding talks with Hezbollah if such a meeting would be beneficial, according to the NNA",
+    "original_text": "During a meeting with Lebanese Parliament Speaker Nabih Berri, a Hezbollah ally, al-Shibani said Syria is open to holding talks with Hezbollah if such a meeting would be beneficial, according to the NNA",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 50,
+      "explanation": "The statement is based on a meeting between al-Shibani and Nabih Berri, but the quote directly from al-Shibani is unclear. Further verification is required to confirm the exact words and context.",
+      "recommendation": "Verify the quote directly from al-Shibani to confirm the statement's accuracy.",
+      "misinformation_analysis": {
+        "potential_misinformation": "The statement may be misleading due to the indirect quote and lack of context. It is unclear what exactly al-Shibani said, and the quote may have been taken out of context or misinterpreted.",
+        "missing_information": "The original quote from al-Shibani is not provided, making it difficult to assess the statement's accuracy.",
+        "exaggeration": "None identified",
+        "unsupported_claim": "None identified"
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-03T09:44:03"
+  },
+  {
+    "claim": "US Conservative commentator Tucker Carlson declared his intention to assist in establishing a new third political party in the United States.",
+    "original_text": "US Conservative commentator Tucker Carlson declared his intention to assist in establishing a new third political party in the United States.",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "True",
+      "confidence_score": 85,
+      "explanation": "Tucker Carlson declared his intention to assist in establishing a new third political party in the United States, as reported by the New York Post on July 1, 2026.",
+      "recommendation": "Verify the information through multiple credible sources before accepting it as true.",
+      "misinformation_analysis": {
+        "analysis": [
+          {
+            "type": "Supported",
+            "description": "The claim is supported by a credible news source, the New York Post, with a high evidence score of 0.8553."
+          },
+          {
+            "type": "Missing",
+            "description": "The claim does not provide further details about the new political party, such as its name, platform, or goals."
+          },
+          {
+            "type": "Exaggerated",
+            "description": "The claim may be exaggerated, as it is unclear whether Tucker Carlson's intention to assist in establishing a new party is a serious commitment or a publicity stunt."
+          }
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "title": "Tucker Carlson says he’s starting a new political party after break with Trump and GOP",
+        "content": "“I’m going to help build a third party,” Carlson said in an interview with the Columbia Journalism Review published Wednesday.",
+        "url": "https://nypost.com/2026/07/01/us-news/tucker-carlson-says-hes-starting-a-new-political-party-after-break-with-trump-and-gop/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/us-political-commentator-tucker-carlson-132990791.jpg?quality=75&strip=all&w=1200",
+        "source": "New York Post",
+        "date": "2026-07-02T03:11:06Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8553
+      },
+      {
+        "title": "J.D. Vance Infuriates the Neocons",
+        "content": "The neoconservative pundit Mark Levin posted on X on Thursday, “Here’s a novel idea: stop bullying our ally and cozying up to our enemy.” Megyn Kelly, the influential conservative podcaster, replied, “To which politician could he be talking? I guess we’ll jus…",
+        "url": "https://freerepublic.com/focus/f-news/4385680/posts",
+        "image": null,
+        "source": "Freerepublic.com",
+        "date": "2026-06-27T15:03:14Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "Simmering feud between Ted Cruz and JD Vance explodes: New presidential plot sparks laughter, cruel nickname and 'bedwetting' slur from White House insiders",
+        "content": "President Donald Trump's proposed nuclear deal to end the war in Iran has potential 2028 Republican presidential hopefuls positioning themselves as they weigh future political ambitions.",
+        "url": "https://www.dailymail.com/news/article-15929663/ted-cruz-jd-vance-feud-president-white-house-insiders.html",
+        "image": "https://i.dailymail.com/1s/2026/06/25/20/109604227-0-image-a-22_1782416228701.jpg",
+        "source": "Dailymail.com",
+        "date": "2026-06-25T19:50:02Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3412
+      },
+      {
+        "title": "Tucker Carlson Says Trump ‘Finally Figured Out’ Israel Is ‘Biggest Threat’ To His Administration",
+        "content": "Carlson’s comments about Trump’s souring relationship with Israel and argument that the U.S. was defeated in the Iran War came just a week after he announced he was “out” of the GOP.",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/25/tucker-carlson-says-trump-finally-figured-out-israel-is-biggest-threat-to-his-administration/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3d19d2060f5f7cb0a1b053/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "source": "Forbes",
+        "date": "2026-06-25T12:08:35Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3071
+      },
+      {
+        "title": "The American Revolution Isn't Over",
+        "content": "Washington’s troops won the ground war, but today's left and right are waging war on the ideals of the Revolution.",
+        "url": "https://reason.com/video/2026/06/29/the-american-revolution-isnt-over/",
+        "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/06/Idea1.jpg",
+        "source": "Reason",
+        "date": "2026-06-29T16:36:18Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.1927
+      }
+    ],
+    "related_articles": [
+      {
+        "title": "Tucker Carlson says he’s starting a new political party after break with Trump and GOP",
+        "content": "“I’m going to help build a third party,” Carlson said in an interview with the Columbia Journalism Review published Wednesday.",
+        "url": "https://nypost.com/2026/07/01/us-news/tucker-carlson-says-hes-starting-a-new-political-party-after-break-with-trump-and-gop/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/us-political-commentator-tucker-carlson-132990791.jpg?quality=75&strip=all&w=1200",
+        "source": "New York Post",
+        "date": "2026-07-02T03:11:06Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8553
+      },
+      {
+        "title": "J.D. Vance Infuriates the Neocons",
+        "content": "The neoconservative pundit Mark Levin posted on X on Thursday, “Here’s a novel idea: stop bullying our ally and cozying up to our enemy.” Megyn Kelly, the influential conservative podcaster, replied, “To which politician could he be talking? I guess we’ll jus…",
+        "url": "https://freerepublic.com/focus/f-news/4385680/posts",
+        "image": null,
+        "source": "Freerepublic.com",
+        "date": "2026-06-27T15:03:14Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "Simmering feud between Ted Cruz and JD Vance explodes: New presidential plot sparks laughter, cruel nickname and 'bedwetting' slur from White House insiders",
+        "content": "President Donald Trump's proposed nuclear deal to end the war in Iran has potential 2028 Republican presidential hopefuls positioning themselves as they weigh future political ambitions.",
+        "url": "https://www.dailymail.com/news/article-15929663/ted-cruz-jd-vance-feud-president-white-house-insiders.html",
+        "image": "https://i.dailymail.com/1s/2026/06/25/20/109604227-0-image-a-22_1782416228701.jpg",
+        "source": "Dailymail.com",
+        "date": "2026-06-25T19:50:02Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3412
+      },
+      {
+        "title": "Tucker Carlson Says Trump ‘Finally Figured Out’ Israel Is ‘Biggest Threat’ To His Administration",
+        "content": "Carlson’s comments about Trump’s souring relationship with Israel and argument that the U.S. was defeated in the Iran War came just a week after he announced he was “out” of the GOP.",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/25/tucker-carlson-says-trump-finally-figured-out-israel-is-biggest-threat-to-his-administration/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3d19d2060f5f7cb0a1b053/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "source": "Forbes",
+        "date": "2026-06-25T12:08:35Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3071
+      },
+      {
+        "title": "The American Revolution Isn't Over",
+        "content": "Washington’s troops won the ground war, but today's left and right are waging war on the ideals of the Revolution.",
+        "url": "https://reason.com/video/2026/06/29/the-american-revolution-isnt-over/",
+        "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/06/Idea1.jpg",
+        "source": "Reason",
+        "date": "2026-06-29T16:36:18Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.1927
+      }
+    ],
+    "timeline": [
+      {
+        "title": "Tucker Carlson says he’s starting a new political party after break with Trump and GOP",
+        "source": "New York Post",
+        "date": "2026-07-02T03:11:06Z",
+        "url": "https://nypost.com/2026/07/01/us-news/tucker-carlson-says-hes-starting-a-new-political-party-after-break-with-trump-and-gop/"
+      },
+      {
+        "title": "J.D. Vance Infuriates the Neocons",
+        "source": "Freerepublic.com",
+        "date": "2026-06-27T15:03:14Z",
+        "url": "https://freerepublic.com/focus/f-news/4385680/posts"
+      },
+      {
+        "title": "Simmering feud between Ted Cruz and JD Vance explodes: New presidential plot sparks laughter, cruel nickname and 'bedwetting' slur from White House insiders",
+        "source": "Dailymail.com",
+        "date": "2026-06-25T19:50:02Z",
+        "url": "https://www.dailymail.com/news/article-15929663/ted-cruz-jd-vance-feud-president-white-house-insiders.html"
+      },
+      {
+        "title": "Tucker Carlson Says Trump ‘Finally Figured Out’ Israel Is ‘Biggest Threat’ To His Administration",
+        "source": "Forbes",
+        "date": "2026-06-25T12:08:35Z",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/25/tucker-carlson-says-trump-finally-figured-out-israel-is-biggest-threat-to-his-administration/"
+      },
+      {
+        "title": "The American Revolution Isn't Over",
+        "source": "Reason",
+        "date": "2026-06-29T16:36:18Z",
+        "url": "https://reason.com/video/2026/06/29/the-american-revolution-isnt-over/"
+      }
+    ],
+    "timestamp": "2026-07-03T10:06:03"
+  },
+  {
+    "claim": "The officials destroyed the paddy crops that had encroached on a 356-acre lake in the Ekadu area next to Tiruvallur using JCP machines. The officials argued with the farmers who protested.",
+    "original_text": "திருவள்ளூர் அடுத்த ஈக்காடு பகுதியில் 356 ஏக்கர் ஏரியை ஆக்கிரமித்துப் பயிரிடப்பட்டிருந்த நெற்பயிர்களை அதிகாரிகள் ஜேசிபி இயந்திரம் மூலம் அழித்தனர். இதற்கு எதிர்ப்பு தெரிவித்த விவசாயிகளுடன் அதிகாரிகள் வாக்குவாதம்.",
+    "translation": "The officials destroyed the paddy crops that had encroached on a 356-acre lake in the Ekadu area next to Tiruvallur using JCP machines. The officials argued with the farmers who protested.",
+    "detected_language": "ta",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 25,
+      "explanation": "The claim mentions the use of JCP machines to destroy paddy crops encroaching on a 356-acre lake, but lacks specific details and evidence to verify the officials' actions and the farmers' protest.",
+      "recommendation": "Verify the claim by checking official reports, news articles, or government statements related to the incident in the Ekadu area next to Tiruvallur.",
+      "misinformation_analysis": {
+        "exaggeration": false,
+        "unsupported": true,
+        "missing": true,
+        "misleading": false,
+        "analysis": "The claim may be misleading due to the lack of specific details and evidence. It is essential to verify the officials' actions, the farmers' protest, and the use of JCP machines to determine the accuracy of the claim."
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-03T10:20:20"
+  },
+  {
+    "claim": "🇺🇸 🇮🇷 The US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to ‘Israel’s’ Negev desert, according to a report by The Wall Street Journal",
+    "original_text": "🇺🇸 🇮🇷 The US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to ‘Israel’s’ Negev desert, according to a report by The Wall Street Journal",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 60,
+      "explanation": "The claim that the US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to 'Israel's' Negev desert is partially supported by a report from The Wall Street Journal, but the claim's accuracy and context require further verification.",
+      "recommendation": "Verify the claim by cross-checking with official CENTCOM statements and reputable news sources.",
+      "misinformation_analysis": {
+        "misleading": "The claim implies a direct connection between CENTCOM's potential asset relocation and the Negev desert, which may not be explicitly stated in the original report.",
+        "missing": "The original report does not provide specific details on the potential relocation, such as the number of assets, the timeline, or the reasons behind the decision.",
+        "exaggerated": "The claim may be exaggerated by implying that the Negev desert is a more secure location than the Gulf states, without providing evidence to support this assertion.",
+        "unsupported": "The claim relies on a single report from The Wall Street Journal, which may not be a reliable or unbiased source."
+      }
+    },
+    "evidence": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm",
+        "image": null,
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
+        "image": "https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "content": "The United States and Iran carried out retaliatory strikes on Friday, marking the first direct military exchange since the interim peace deal signed on June 17. The escalation began with a drone attack on the Singapore-flagged container ship Ever Lovely in th…",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/us-iran-conflict-strait-of-hormuz-drone-attack-2376-original.jpg",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775",
+        "image": "https://static.dw.com/image/77267501_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3383
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
+        "image": "https://static.dw.com/image/77598758_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.293
+      }
+    ],
+    "related_articles": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm",
+        "image": null,
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
+        "image": "https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "content": "The United States and Iran carried out retaliatory strikes on Friday, marking the first direct military exchange since the interim peace deal signed on June 17. The escalation began with a drone attack on the Singapore-flagged container ship Ever Lovely in th…",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/us-iran-conflict-strait-of-hormuz-drone-attack-2376-original.jpg",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775",
+        "image": "https://static.dw.com/image/77267501_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3383
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
+        "image": "https://static.dw.com/image/77598758_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.293
+      }
+    ],
+    "timeline": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm"
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html"
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html"
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775"
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775"
+      }
+    ],
+    "timestamp": "2026-07-03T10:22:12"
+  },
+  {
+    "claim": "🇺🇸 🇮🇷 The US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to ‘Israel’s’ Negev desert, according to a report by The Wall Street Journal",
+    "original_text": "🇺🇸 🇮🇷 The US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to ‘Israel’s’ Negev desert, according to a report by The Wall Street Journal",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 50,
+      "explanation": "The claim that the US Central Command (CENTCOM) is evaluating options to move its military assets from vulnerable positions in Gulf states to 'Israel's' Negev desert, according to a report by The Wall Street Journal, requires verification as the original text is not provided and the evidence does not directly support the claim.",
+      "recommendation": "Verify the claim by checking the original text of the report by The Wall Street Journal and cross-checking with other credible sources.",
+      "misinformation_analysis": {
+        "potential_misinformation": [
+          {
+            "type": "missing_context",
+            "description": "The claim lacks context about the specific military assets, the reason for the potential relocation, and the involvement of 'Israel's' Negev desert in the CENTCOM's plans."
+          },
+          {
+            "type": "exaggeration",
+            "description": "The claim implies a significant and imminent relocation of military assets, which may be an exaggeration or a misunderstanding of the actual plans."
+          },
+          {
+            "type": "unsupported_claim",
+            "description": "The claim relies on a report by The Wall Street Journal, but the original text is not provided, making it difficult to assess the credibility and accuracy of the claim."
+          }
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm",
+        "image": null,
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
+        "image": "https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "content": "The United States and Iran carried out retaliatory strikes on Friday, marking the first direct military exchange since the interim peace deal signed on June 17. The escalation began with a drone attack on the Singapore-flagged container ship Ever Lovely in th…",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/us-iran-conflict-strait-of-hormuz-drone-attack-2376-original.jpg",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775",
+        "image": "https://static.dw.com/image/77267501_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3383
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
+        "image": "https://static.dw.com/image/77598758_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.293
+      }
+    ],
+    "related_articles": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm",
+        "image": null,
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "content": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unres…",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html",
+        "image": "https://gdb.rferl.org/8ce1d1a7-51a5-4d61-8dda-08debadc418c_cx0_cy5_cw90_w1200_h630.jpg",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3489
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "content": "The United States and Iran carried out retaliatory strikes on Friday, marking the first direct military exchange since the interim peace deal signed on June 17. The escalation began with a drone attack on the Singapore-flagged container ship Ever Lovely in th…",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/us-iran-conflict-strait-of-hormuz-drone-attack-2376-original.jpg",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3462
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775",
+        "image": "https://static.dw.com/image/77267501_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3383
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "content": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume. Iranian official says there are no technical talks with the US this week…",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775",
+        "image": "https://static.dw.com/image/77598758_6.jpg",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.293
+      }
+    ],
+    "timeline": [
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Globalsecurity.org",
+        "date": "2026-07-01T12:00:00Z",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm"
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "date": "2026-07-01T07:26:49Z",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html"
+      },
+      {
+        "title": "From Warning Shots to War Strikes: U.S. and Iran Trade Blows in the Strait of Hormuz, Threatening Global Shipping",
+        "source": "Naturalnews.com",
+        "date": "2026-06-29T06:00:00Z",
+        "url": "https://www.naturalnews.com/2026-06-29-us-iran-trade-blows-in-strait-of-hormuz.html"
+      },
+      {
+        "title": "US, Iran deliver conflicting reports on fresh peace talks",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "url": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775"
+      },
+      {
+        "title": "US, Iran agree to halt strikes but broader talks still to begin",
+        "source": "DW (English)",
+        "date": "2026-06-29T05:47:00Z",
+        "url": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775"
+      }
+    ],
+    "timestamp": "2026-07-03T10:26:00"
+  },
+  {
+    "claim": "Sivakasi: Rajamanickam (60), an elderly woman who was injured in an explosion in the Kopinayakanpatti firecrackers factory, succumbed to her injuries.",
+    "original_text": "சிவகாசி: கோப்பைநாயக்கன்பட்டி பட்டாசு தொழிற்சாலை வெடி விபத்தில் சிக்கி படுகாயம் அடைந்த மூதாட்டி ராஜமாணிக்கம் (60) சிகிச்சை பலனின்றி உயிரிழப்பு",
+    "translation": "Sivakasi: Rajamanickam (60), an elderly woman who was injured in an explosion in the Kopinayakanpatti firecrackers factory, succumbed to her injuries.",
+    "detected_language": "ta",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 25,
+      "explanation": "Lack of specific information on the incident and the victim's identity makes it difficult to verify the claim.",
+      "recommendation": "Verify the claim through official sources, such as local authorities or news outlets with a track record of accuracy.",
+      "misinformation_analysis": {
+        "potential_misinformation": [
+          "Missing context about the incident, such as the exact date or location of the explosion.",
+          "Unclear or unverified information about the victim's identity and condition.",
+          "Potential exaggeration or sensationalism in the claim, as it is based on a preliminary report."
+        ],
+        "unsupported_claims": [
+          "The claim does not provide any evidence or credible sources to support the assertion that the victim succumbed to her injuries."
+        ]
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-03T10:30:38"
+  },
+  {
+    "claim": "Meeting with DMK President M.K.Stalin with administrators of Madhurandakam Constituency As by-elections for Maduraandakam Constituency are coming up soon, it is reported that there is a consultation regarding the election work.",
+    "original_text": "திமுக தலைவர் மு.க.ஸ்டாலினுடன் மதுராந்தகம் தொகுதிக்கு உட்பட்ட நிர்வாகிகள் சந்திப்பு மதுராந்தகம் தொகுதிக்கு விரைவில் இடைத்தேர்தல் வர உள்ள நிலையில், தேர்தல் பணிகள் குறித்து ஆலோசனை என தகவல்",
+    "translation": "Meeting with DMK President M.K.Stalin with administrators of Madhurandakam Constituency As by-elections for Maduraandakam Constituency are coming up soon, it is reported that there is a consultation regarding the election work.",
+    "detected_language": "ta",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 25,
+      "explanation": "The claim mentions a meeting between DMK President M.K. Stalin and administrators of Madurandakam Constituency, but lacks specific details about the purpose and scope of the consultation.",
+      "recommendation": "Verify the claim by checking official sources, such as DMK's official website or social media channels, for confirmation of the meeting and its purpose.",
+      "misinformation_analysis": {
+        "potential_misinformation": "The claim may be misleading if it implies that the meeting is directly related to the upcoming by-elections, without providing concrete evidence.",
+        "missing_information": "The claim lacks specific details about the date, time, and agenda of the meeting, which could be crucial in understanding its significance.",
+        "exaggeration": "The claim may be exaggerated if it implies that the meeting is a crucial development in the by-elections, without providing context or evidence to support this claim.",
+        "unsupported_claim": "The claim may be unsupported if it relies on unverified sources or rumors, which could be unreliable or biased."
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-03T11:31:33"
+  },
+  {
+    "claim": "The funeral, which stretches across five cities in Iran and Iraq, is expected to draw millions of mourners. Officials have described the operation as one of the largest logistical efforts since the founding of the Islamic Republic, with state institutions coordinating transportation, security and religious ceremonies throughout the week.",
+    "original_text": "The funeral, which stretches across five cities in Iran and Iraq, is expected to draw millions of mourners. Officials have described the operation as one of the largest logistical efforts since the founding of the Islamic Republic, with state institutions coordinating transportation, security and religious ceremonies throughout the week.",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 60,
+      "explanation": "The claim mentions a large-scale funeral operation in Iran and Iraq, but the evidence provided does not directly support the logistical scale or the number of mourners expected.",
+      "recommendation": "Verify the claim with official sources or reputable news outlets for more accurate information.",
+      "misinformation_analysis": {
+        "exaggeration": "The claim may be exaggerated regarding the number of mourners expected, as the evidence provided does not provide a clear estimate.",
+        "unsupported": "The claim does not provide any direct evidence or credible sources to support the logistical scale of the operation.",
+        "missing": "The claim does not mention the specific date or location of the funeral, which could be crucial information for verification.",
+        "misleading": "The claim may be misleading by implying that the operation is one of the largest logistical efforts since the founding of the Islamic Republic, without providing concrete evidence to support this claim."
+      }
+    },
+    "evidence": [
+      {
+        "title": "Shiite Muslims mark holy day of Ashoura after months of war in Iran and Lebanon",
+        "content": "Shiite Muslims around the world on Thursday marked Ashoura, a holy day symbolizing sacrifice and martyrdom that holds special significance for many this year...",
+        "url": "https://www.yahoo.com/news/world/articles/shiite-muslims-mark-holy-day-040413500.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/69fbc1eb2537d551f63496ca758c9134496f710728dfa649aa369e8224e69b7b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2307b33d0670c8fad3b98488ee9bbb67",
+        "source": "Yahoo Entertainment",
+        "date": "2026-06-25T04:04:13Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3611
+      },
+      {
+        "title": "Who is actually ruling Iran right now?",
+        "content": "For 36 years, the question of who ultimately ruled Iran had one answer: Supreme Leader Ayatollah Ali Khamenei. While Iran has an elected president and legislature, that power is subordinate to the religious supreme leader, who has the last say over all foreig…",
+        "url": "https://www.vox.com/politics/493746/mojtaba-khamenei-iran-supreme-leader",
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2283476002.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+        "source": "Vox",
+        "date": "2026-06-30T20:10:32Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.2396
+      },
+      {
+        "title": "Restrictions on religion rose in most regions in 2023 but declined in sub-Saharan Africa",
+        "content": "Median levels of government restrictions and social hostilities rose in Europe, Asia and the Pacific, and the Middle East and North Africa.",
+        "url": "https://www.pewresearch.org/religion/2026/06/15/restrictions-on-religion-rose-in-most-regions-in-2023-but-declined-in-sub-saharan-africa/",
+        "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/06/pr_26.06.15_restrictions_featured.png?w=1200&h=628&crop=1",
+        "source": "Pew Research Center",
+        "date": "2026-06-15T14:00:04Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.2214
+      }
+    ],
+    "related_articles": [
+      {
+        "title": "Shiite Muslims mark holy day of Ashoura after months of war in Iran and Lebanon",
+        "content": "Shiite Muslims around the world on Thursday marked Ashoura, a holy day symbolizing sacrifice and martyrdom that holds special significance for many this year...",
+        "url": "https://www.yahoo.com/news/world/articles/shiite-muslims-mark-holy-day-040413500.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/69fbc1eb2537d551f63496ca758c9134496f710728dfa649aa369e8224e69b7b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2307b33d0670c8fad3b98488ee9bbb67",
+        "source": "Yahoo Entertainment",
+        "date": "2026-06-25T04:04:13Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.3611
+      },
+      {
+        "title": "Who is actually ruling Iran right now?",
+        "content": "For 36 years, the question of who ultimately ruled Iran had one answer: Supreme Leader Ayatollah Ali Khamenei. While Iran has an elected president and legislature, that power is subordinate to the religious supreme leader, who has the last say over all foreig…",
+        "url": "https://www.vox.com/politics/493746/mojtaba-khamenei-iran-supreme-leader",
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2283476002.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+        "source": "Vox",
+        "date": "2026-06-30T20:10:32Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.2396
+      },
+      {
+        "title": "Restrictions on religion rose in most regions in 2023 but declined in sub-Saharan Africa",
+        "content": "Median levels of government restrictions and social hostilities rose in Europe, Asia and the Pacific, and the Middle East and North Africa.",
+        "url": "https://www.pewresearch.org/religion/2026/06/15/restrictions-on-religion-rose-in-most-regions-in-2023-but-declined-in-sub-saharan-africa/",
+        "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/06/pr_26.06.15_restrictions_featured.png?w=1200&h=628&crop=1",
+        "source": "Pew Research Center",
+        "date": "2026-06-15T14:00:04Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.2214
+      }
+    ],
+    "timeline": [
+      {
+        "title": "Shiite Muslims mark holy day of Ashoura after months of war in Iran and Lebanon",
+        "source": "Yahoo Entertainment",
+        "date": "2026-06-25T04:04:13Z",
+        "url": "https://www.yahoo.com/news/world/articles/shiite-muslims-mark-holy-day-040413500.html"
+      },
+      {
+        "title": "Who is actually ruling Iran right now?",
+        "source": "Vox",
+        "date": "2026-06-30T20:10:32Z",
+        "url": "https://www.vox.com/politics/493746/mojtaba-khamenei-iran-supreme-leader"
+      },
+      {
+        "title": "Restrictions on religion rose in most regions in 2023 but declined in sub-Saharan Africa",
+        "source": "Pew Research Center",
+        "date": "2026-06-15T14:00:04Z",
+        "url": "https://www.pewresearch.org/religion/2026/06/15/restrictions-on-religion-rose-in-most-regions-in-2023-but-declined-in-sub-saharan-africa/"
+      }
+    ],
+    "timestamp": "2026-07-03T11:51:49"
+  },
+  {
+    "claim": "🇮🇷 🇮🇱 Iran is witnessing a large-scale, multi-day state funeral for the late Supreme Leader Ayatollah Ali Khamenei, who was killed in February during the opening US-‘Israeli’ strikes. Iranian officials reportedly fear that a public appearance by his son Mojtaba at the funeral could expose him to an ‘Israeli’ assassination attempt, according to The New York Times.",
+    "original_text": "🇮🇷 🇮🇱 Iran is witnessing a large-scale, multi-day state funeral for the late Supreme Leader Ayatollah Ali Khamenei, who was killed in February during the opening US-‘Israeli’ strikes. Iranian officials reportedly fear that a public appearance by his son Mojtaba at the funeral could expose him to an ‘Israeli’ assassination attempt, according to The New York Times.",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "False",
+      "confidence_score": 92,
+      "explanation": "Ayatollah Ali Khamenei passed away on 14 September 2022, not in February 2026. The current funeral is likely for another occasion.",
+      "recommendation": "Verify the date of Ayatollah Ali Khamenei's passing and the current events in Iran.",
+      "misinformation_analysis": {
+        "misleading": "The claim implies that the funeral is for a recent event, when in fact it is likely for a past event.",
+        "missing": "The claim does not provide any evidence to support the assertion that Ayatollah Ali Khamenei was killed in February 2026.",
+        "exaggerated": "The claim exaggerates the significance of the funeral by implying it is a large-scale, multi-day state funeral for a recent event.",
+        "unsupported": "The claim is unsupported by credible sources, and the evidence provided does not match the claim."
+      }
+    },
+    "evidence": [
+      {
+        "title": "Iran prepares casket prayers for Ayatollah Ali Khamenei as funeral enters second day",
+        "content": "Iran is holding massive funeral ceremonies for its slain Supreme Leader Ali Khamenei, who died in an airstrike. Huge crowds have gathered in Tehran to pay their respects, with chants of defiance against the US and Israel echoing. The nation observes a public …",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-prepares-casket-prayers-for-ayatollah-ali-khamenei-as-funeral-enters-second-day/articleshow/132189675.cms",
+        "image": "https://img.etimg.com/thumb/msid-132189742,width-1200,height-630,imgsize-281400,overlay-economictimes/articleshow.jpg",
+        "source": "The Times of India",
+        "date": "2026-07-05T01:21:11Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8186
+      },
+      {
+        "title": "Huge crowds amass in Iran for funeral of late Ayatollah Ali Khamenei",
+        "content": "Hundreds of thousands of mourners began a dayslong funeral on Saturday for Iran’s Supreme Leader Ayatollah Ali Khamenei, beating their chests in sorrow before the glass case containing his flag-draped coffin in Tehran and calling for revenge against Israel an…",
+        "url": "https://biztoc.com/x/21ef6d2f5dad85ea",
+        "image": "https://biztoc.com/cdn/21ef6d2f5dad85ea_s.webp",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:12:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8086
+      },
+      {
+        "title": "Iran holds mass funeral processions for Ayatollah Khamenei",
+        "content": "Iran's leadership transition amid Khamenei's funeral may reshape geopolitical dynamics, affecting markets and international relations significantly.\nThe post Iran holds mass funeral processions for Ayatollah Khamenei appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/iran-holds-mass-funeral-processions-for-ayatollah-khamenei/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/04174317/1467x2200-ayatollah-khamenei-meets-with-officials-of-iran-s-1-800x420.jpeg",
+        "source": "Crypto Briefing",
+        "date": "2026-07-04T21:43:18Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.798
+      },
+      {
+        "title": "What Trump and Iran Have Said About Ayatollah Ali Khamenei's Funeral",
+        "content": "As Iran begins dayslong funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei, the event has become a focal point not only for mourning but also for tensions involving Tehran, Washington and Israel. President Donald Trump has commented publicly on the …",
+        "url": "https://biztoc.com/x/f1d90c1a39f151e6",
+        "image": "https://biztoc.com/cdn/f1d90c1a39f151e6_s.webp",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:58:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.7812
+      },
+      {
+        "title": "Iran Projects Unity While Moving Against Dissidents",
+        "content": "Iran is staging mass mourning in public while silencing critics in private, according to rights advocates and people close to those detained. As the state prepares a high-profile funeral for late Supreme Leader Ayatollah Ali Khamenei aimed at showcasing natio…",
+        "url": "https://www.newser.com/story/392259/iran-projects-unity-while-moving-against-dissidents.html",
+        "image": "https://cdn.newser.com/image/1696537-12-20260704164502.jpeg",
+        "source": "Newser",
+        "date": "2026-07-04T21:45:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.7089
+      }
+    ],
+    "related_articles": [
+      {
+        "title": "Iran prepares casket prayers for Ayatollah Ali Khamenei as funeral enters second day",
+        "content": "Iran is holding massive funeral ceremonies for its slain Supreme Leader Ali Khamenei, who died in an airstrike. Huge crowds have gathered in Tehran to pay their respects, with chants of defiance against the US and Israel echoing. The nation observes a public …",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-prepares-casket-prayers-for-ayatollah-ali-khamenei-as-funeral-enters-second-day/articleshow/132189675.cms",
+        "image": "https://img.etimg.com/thumb/msid-132189742,width-1200,height-630,imgsize-281400,overlay-economictimes/articleshow.jpg",
+        "source": "The Times of India",
+        "date": "2026-07-05T01:21:11Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8186
+      },
+      {
+        "title": "Huge crowds amass in Iran for funeral of late Ayatollah Ali Khamenei",
+        "content": "Hundreds of thousands of mourners began a dayslong funeral on Saturday for Iran’s Supreme Leader Ayatollah Ali Khamenei, beating their chests in sorrow before the glass case containing his flag-draped coffin in Tehran and calling for revenge against Israel an…",
+        "url": "https://biztoc.com/x/21ef6d2f5dad85ea",
+        "image": "https://biztoc.com/cdn/21ef6d2f5dad85ea_s.webp",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:12:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.8086
+      },
+      {
+        "title": "Iran holds mass funeral processions for Ayatollah Khamenei",
+        "content": "Iran's leadership transition amid Khamenei's funeral may reshape geopolitical dynamics, affecting markets and international relations significantly.\nThe post Iran holds mass funeral processions for Ayatollah Khamenei appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/iran-holds-mass-funeral-processions-for-ayatollah-khamenei/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/04174317/1467x2200-ayatollah-khamenei-meets-with-officials-of-iran-s-1-800x420.jpeg",
+        "source": "Crypto Briefing",
+        "date": "2026-07-04T21:43:18Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.798
+      },
+      {
+        "title": "What Trump and Iran Have Said About Ayatollah Ali Khamenei's Funeral",
+        "content": "As Iran begins dayslong funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei, the event has become a focal point not only for mourning but also for tensions involving Tehran, Washington and Israel. President Donald Trump has commented publicly on the …",
+        "url": "https://biztoc.com/x/f1d90c1a39f151e6",
+        "image": "https://biztoc.com/cdn/f1d90c1a39f151e6_s.webp",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:58:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.7812
+      },
+      {
+        "title": "Iran Projects Unity While Moving Against Dissidents",
+        "content": "Iran is staging mass mourning in public while silencing critics in private, according to rights advocates and people close to those detained. As the state prepares a high-profile funeral for late Supreme Leader Ayatollah Ali Khamenei aimed at showcasing natio…",
+        "url": "https://www.newser.com/story/392259/iran-projects-unity-while-moving-against-dissidents.html",
+        "image": "https://cdn.newser.com/image/1696537-12-20260704164502.jpeg",
+        "source": "Newser",
+        "date": "2026-07-04T21:45:00Z",
+        "language": "en",
+        "provider": "newsapi",
+        "score": 0.7089
+      }
+    ],
+    "timeline": [
+      {
+        "title": "Iran prepares casket prayers for Ayatollah Ali Khamenei as funeral enters second day",
+        "source": "The Times of India",
+        "date": "2026-07-05T01:21:11Z",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-prepares-casket-prayers-for-ayatollah-ali-khamenei-as-funeral-enters-second-day/articleshow/132189675.cms"
+      },
+      {
+        "title": "Huge crowds amass in Iran for funeral of late Ayatollah Ali Khamenei",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:12:00Z",
+        "url": "https://biztoc.com/x/21ef6d2f5dad85ea"
+      },
+      {
+        "title": "Iran holds mass funeral processions for Ayatollah Khamenei",
+        "source": "Crypto Briefing",
+        "date": "2026-07-04T21:43:18Z",
+        "url": "https://cryptobriefing.com/iran-holds-mass-funeral-processions-for-ayatollah-khamenei/"
+      },
+      {
+        "title": "What Trump and Iran Have Said About Ayatollah Ali Khamenei's Funeral",
+        "source": "Biztoc.com",
+        "date": "2026-07-04T21:58:00Z",
+        "url": "https://biztoc.com/x/f1d90c1a39f151e6"
+      },
+      {
+        "title": "Iran Projects Unity While Moving Against Dissidents",
+        "source": "Newser",
+        "date": "2026-07-04T21:45:00Z",
+        "url": "https://www.newser.com/story/392259/iran-projects-unity-while-moving-against-dissidents.html"
+      }
+    ],
+    "timestamp": "2026-07-06T08:54:03"
+  },
+  {
+    "claim": "🇵🇸 Security camera footage from the Qalandiya refugee camp, located north of Jerusalem in the occupied West Bank, has sparked widespread attention after showing an ‘Israeli’ Border Police soldier throwing a stun grenade into a stopped Palestinian vehicle and closing the door.",
+    "original_text": "🇵🇸 Security camera footage from the Qalandiya refugee camp, located north of Jerusalem in the occupied West Bank, has sparked widespread attention after showing an ‘Israeli’ Border Police soldier throwing a stun grenade into a stopped Palestinian vehicle and closing the door.",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 50,
+      "explanation": "The claim is based on a specific incident, but the details provided are limited, and the context is unclear. Verification of the incident and the actions of the Israeli Border Police soldier is required.",
+      "recommendation": "Verify the incident through reputable news sources and official statements from the Israeli government and Palestinian authorities.",
+      "misinformation_analysis": {
+        "potential_misinformation": [
+          {
+            "type": "missing_context",
+            "description": "The claim lacks context about the circumstances leading up to the incident, the motivations of the Israeli Border Police soldier, and the potential consequences of the actions."
+          },
+          {
+            "type": "exaggeration",
+            "description": "The claim implies that the incident is widespread and has sparked attention, but the extent of the attention and the reaction of the public are unclear."
+          },
+          {
+            "type": "unsupported_claim",
+            "description": "The claim is based on a single piece of footage, but the authenticity and reliability of the footage are not verified."
+          }
+        ]
+      }
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-06T13:55:30"
+  }
+]
