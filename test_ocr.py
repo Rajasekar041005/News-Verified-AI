@@ -6,7 +6,7 @@ print("STEP 1: Can we even open the image?")
 print("=" * 60)
 
 # CHANGE THIS to the actual path of an image you uploaded to test with
-IMAGE_PATH = "test_image.jpg"
+IMAGE_PATH = r"C:\Users\kit23\OneDrive\Desktop\idcard.jpeg"
 
 try:
     image = Image.open(IMAGE_PATH)

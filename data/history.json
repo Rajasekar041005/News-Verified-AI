@@ -945,5 +945,23 @@
     "related_articles": [],
     "timeline": [],
     "timestamp": "2026-07-06T13:55:30"
+  },
+  {
+    "claim": "Nearly four decades after millions of Iranians filled the streets to bid farewell to Ayatollah Ruhollah Khomeini, the country has once again witnessed massive funeral ceremonies for a supreme leader",
+    "original_text": "Nearly four decades after millions of Iranians filled the streets to bid farewell to Ayatollah Ruhollah Khomeini, the country has once again witnessed massive funeral ceremonies for a supreme leader",
+    "translation": "",
+    "detected_language": "en",
+    "source_type": "text",
+    "result": {
+      "label": "Needs Verification",
+      "confidence_score": 25,
+      "explanation": "The available evidence is not strong enough to confirm the claim.",
+      "recommendation": "Try another claim or provide more information.",
+      "misinformation_analysis": "There is insufficient corroboration to classify the claim with confidence."
+    },
+    "evidence": [],
+    "related_articles": [],
+    "timeline": [],
+    "timestamp": "2026-07-06T16:19:49"
   }
 ]
